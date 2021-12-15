@@ -3,7 +3,7 @@
     "en-US": {
       "title": "Rychillie Feed",
       "description": "Frontend Developer, junior UI Designer and Swift development student, sharing my knowledge through my blog",
-      "link": "https://rychillie.net",
+      "link": "https://ruandiax.dev",
       "language": "en-US",
       "image": "https://rychillie.net/images/rychillie.png",
       "favicon": "https://rychillie.net/favicon.ico",
@@ -12,13 +12,13 @@
       "feedLinksAtom": "https://example.com/atom",
       "authorName": "Rychillie",
       "authorEmail": "contact@rychillie.net",
-      "authorLink": "https://rychillie.net",
+      "authorLink": "https://ruandiax.dev",
       "twitterUserName": "rychillie"
     },
     "pt-BR": {
       "title": "Rychillie Feed",
       "description": "Desenvolvedor Frontend, UI Designer Junior e estudante de desenvolvimento Swift, compartilhando conhecimento através do meu blog",
-      "link": "https://rychillie.net",
+      "link": "https://ruandiax.dev",
       "language": "pt-BR",
       "image": "https://rychillie.net/images/rychillie.png",
       "favicon": "https://rychillie.net/favicon.ico",
@@ -27,7 +27,7 @@
       "feedLinksAtom": "https://example.com/atom",
       "authorName": "Rychillie",
       "authorEmail": "contato@rychillie.net",
-      "authorLink": "https://rychillie.net",
+      "authorLink": "https://ruandiax.dev",
       "twitterUserName": "rychillie"
     }
   }

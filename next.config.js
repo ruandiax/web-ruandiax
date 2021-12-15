@@ -8,7 +8,7 @@ module.exports = withSass({
 
 module.exports = {
   images: {
-    domains: ["rychillie.net", "localhost"],
+    domains: ["ruandiax.dev", "localhost"],
   },
   async rewrites() {
     return [{ source: "/api/thumbnail.png", destination: "/api/thumbnail" }];
