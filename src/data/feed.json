@@ -1,34 +1,34 @@
 {
   "feed": {
     "en-US": {
-      "title": "Rychillie Feed",
-      "description": "Frontend Developer, junior UI Designer and Swift development student, sharing my knowledge through my blog",
+      "title": "Ruan Dias Feed",
+      "description": "Full Stack Developer Junior, Swift development student! Sharing my knowledge through my blog",
       "link": "https://ruandiax.dev",
       "language": "en-US",
       "image": "https://rychillie.net/images/rychillie.png",
       "favicon": "https://rychillie.net/favicon.ico",
-      "copyright": "All rights reserved 2021, Rychillie",
+      "copyright": "All rights reserved 2021, ruandiax",
       "feedLinksJson": "https://example.com/json",
       "feedLinksAtom": "https://example.com/atom",
-      "authorName": "Rychillie",
-      "authorEmail": "contact@rychillie.net",
+      "authorName": "Ruan Dias",
+      "authorEmail": "ruandiax.dev@gmail.com",
       "authorLink": "https://ruandiax.dev",
-      "twitterUserName": "rychillie"
+      "twitterUserName": "ruandiax"
     },
     "pt-BR": {
-      "title": "Rychillie Feed",
-      "description": "Desenvolvedor Frontend, UI Designer Junior e estudante de desenvolvimento Swift, compartilhando conhecimento através do meu blog",
+      "title": "Ruan Dias Feed",
+      "description": "Desenvolvedor Full Stack Junior, estudante de desenvolvimento Swift! Compartilhando conhecimento através do meu blog",
       "link": "https://ruandiax.dev",
       "language": "pt-BR",
       "image": "https://rychillie.net/images/rychillie.png",
       "favicon": "https://rychillie.net/favicon.ico",
-      "copyright": "Todos direitos reservados 2021, Rychillie",
+      "copyright": "Todos direitos reservados 2021, Ruan Dias",
       "feedLinksJson": "https://example.com/json",
       "feedLinksAtom": "https://example.com/atom",
-      "authorName": "Rychillie",
-      "authorEmail": "contato@rychillie.net",
+      "authorName": "Ruan Dias",
+      "authorEmail": "ruandiax.dev@gmail.com",
       "authorLink": "https://ruandiax.dev",
-      "twitterUserName": "rychillie"
+      "twitterUserName": "ruandiax"
     }
   }
 }

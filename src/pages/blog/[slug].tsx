@@ -62,7 +62,7 @@ const BlogPost = ({ post, locale }: Props) => {
   const pageLocale = locale === "pt-BR" ? "pt-BR" : "en-US";
   const dateLocale = locale === "pt-BR" ? ptBR : enUS;
 
-  const baseURL = "rychillie.net";
+  const baseURL = "ruandiax.dev";
   const linkURL =
     locale === "pt-BR"
       ? `${baseURL}/pt-BR/${post.slug}`

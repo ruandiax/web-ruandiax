@@ -52,3 +52,5 @@ Also I can use a custom prefix, just add a `paths` in the configuration:
 Remember that code editors like VSCode have automatic support for their settings in `jsconfig.json` so just click Command+Click to go straight to the file that was defined there and edit it smoothly. And it's worth noting that [Atom and IntelliJ](https://github.com/tleunen/babel-plugin-module-resolver#editors-autocompletion) also support edits.
 
 I would like to leave as a reference an article by [Paco](https://paco.me/writing/better-nextjs-imports) that inspired me to write this article and share it in a simple way.
+
+Created by <a href='https://twitter.com/rychillie'>Rychillie</a>

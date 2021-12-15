@@ -19,7 +19,7 @@ const Header = ({ locale }: Props): JSX.Element => {
       <nav className={styles.navigation}>
         <Link href="/">
           <a className={styles.logo}>
-            🦄 <span>Rychillie</span>
+           🧠 <span>Ruan Dias</span>
           </a>
         </Link>
 

@@ -5,22 +5,22 @@ import styles from "./styles.module.scss";
 const links: { name: string; href: string; icon: string }[] = [
   {
     name: "Twiter",
-    href: "https://twitter.com/rychillie",
+    href: "https://twitter.com/ruandiax",
     icon: "twitter",
   },
   {
     name: "Instagram",
-    href: "https://instagram.com/rychillie",
+    href: "https://instagram.com/ruandiax",
     icon: "instagram",
   },
   {
     name: "Github",
-    href: "https://github.com/rychillie",
+    href: "https://github.com/ruandiax",
     icon: "github",
   },
   {
     name: "Linkedin",
-    href: "https://linkedin.com/in/rychillie",
+    href: "https://linkedin.com/in/ruandiax",
     icon: "linkedin",
   },
 ];

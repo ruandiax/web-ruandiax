@@ -27,7 +27,7 @@ const Newsletter = ({ locale }: NewsletterProps) => {
 
         <div id="revue-embed">
           <form
-            action="https://www.getrevue.co/profile/rychillie/add_subscriber"
+            action="https://www.getrevue.co/profile/ruandiax"
             method="post"
             id="revue-form"
             name="revue-form"

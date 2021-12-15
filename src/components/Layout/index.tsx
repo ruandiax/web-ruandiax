@@ -75,12 +75,12 @@ const Layout = ({
             type: "image/png",
           },
         ],
-        site_name: "🦄 Rychillie",
+        site_name: "🧠 Ruan Dias",
       }}
       canonical={canonicalUrl}
       twitter={{
-        handle: "@rychillie",
-        site: "@rychillie",
+        handle: "@ruandiax",
+        site: "@ruandiax",
         cardType: "summary_large_image",
       }}
     />

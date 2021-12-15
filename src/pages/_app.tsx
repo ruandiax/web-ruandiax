@@ -34,16 +34,16 @@ function MyApp({ Component, pageProps, router }: AppProps) {
         <link
           rel="alternate"
           type="application/rss+xml"
-          title={`Rychillie's blog feed`}
+          title={`Ruan Dias blog feed`}
           href="/feed.xml"
         />
       </Head>
       <DefaultSeo
-        titleTemplate="%s - Rychillie.net"
+        titleTemplate="%s - ruandiax.dev"
         openGraph={{
           title: "Future IOS Developer",
           description:
-            "O website pessoal de Rychillie Umpierre de Oliveira, desenvolvedor.",
+            "O website pessoal de Ruan Dias, desenvolvedor.",
           images: [
             {
               url: "http://rychillie.net/api/thumbnail.png?imgdefault",
@@ -53,13 +53,13 @@ function MyApp({ Component, pageProps, router }: AppProps) {
               type: "image/png",
             },
           ],
-          site_name: "🦄 Rychillie",
+          site_name: "Ruan Dias",
           locale,
           url,
         }}
         twitter={{
-          handle: "@rychillie",
-          site: "@rychillie",
+          handle: "@ruandiax",
+          site: "@ruandiax",
           cardType: "summary",
         }}
         canonical={url}

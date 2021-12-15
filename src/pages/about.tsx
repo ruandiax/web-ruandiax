@@ -29,8 +29,8 @@ const Sobre: NextPage = () => {
       <h1>{titleContent}</h1>
 
       <Image
-        src={"/images/home-office.png"}
-        blurDataURL="/images/home-office.png"
+        src={"/images/aboutme.jpeg"}
+        blurDataURL="/images/aboutme.jpeg"
         placeholder="blur"
         quality={100}
         width={3840}

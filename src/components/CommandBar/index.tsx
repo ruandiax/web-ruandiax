@@ -46,7 +46,7 @@ export default function CommandBar({ children }: BaseAction) {
       shortcut: ["e"],
       keywords: "send-email",
       section: "General",
-      perform: () => window.open("mailto:contact@rychillie.net", "_blank"),
+      perform: () => window.open("mailto:ruandiax.dev@gmail.com", "_blank"),
       icon: <img src="/icons/mail.svg" className={styles.iconStyle} />,
     },
     {
@@ -100,7 +100,7 @@ export default function CommandBar({ children }: BaseAction) {
       shortcut: ["f", "g"],
       keywords: "fallow-github",
       section: "Follow",
-      perform: () => window.open("https://github.com/rychillie", "_blank"),
+      perform: () => window.open("https://github.com/ruandiax", "_blank"),
       icon: <img src="/icons/github.svg" className={styles.iconStyle} />,
     },
     {
@@ -109,7 +109,7 @@ export default function CommandBar({ children }: BaseAction) {
       shortcut: ["f", "t"],
       keywords: "fallow-twitter",
       section: "Follow",
-      perform: () => window.open("https://twitter.com/rychillie", "_blank"),
+      perform: () => window.open("https://twitter.com/ruandiax", "_blank"),
       icon: <img src="/icons/twitter.svg" className={styles.iconStyle} />,
     },
     {
@@ -118,7 +118,7 @@ export default function CommandBar({ children }: BaseAction) {
       shortcut: ["f", "l"],
       keywords: "fallow-linkedin",
       section: "Follow",
-      perform: () => window.open("https://linkedin.com/in/rychillie", "_blank"),
+      perform: () => window.open("https://linkedin.com/in/ruandiax", "_blank"),
       icon: <img src="/icons/linkedin.svg" className={styles.iconStyle} />,
     },
     {
@@ -127,7 +127,7 @@ export default function CommandBar({ children }: BaseAction) {
       shortcut: ["f", "i"],
       keywords: "fallow-instagram",
       section: "Follow",
-      perform: () => window.open("https://instagram.com/rychillie", "_blank"),
+      perform: () => window.open("https://instagram.com/ruandiax", "_blank"),
       icon: <img src="/icons/instagram.svg" className={styles.iconStyle} />,
     },
   ];
