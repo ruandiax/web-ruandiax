@@ -1,0 +1,22 @@
+.navigation {
+  a {
+    opacity: 1;
+    color: #fafafa;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    transition: all 0.3s ease-in-out;
+    background-image: none;
+
+    &:hover {
+      opacity: 0.72;
+    }
+
+    &:first-child {
+      padding-left: 0;
+    }
+
+    &:last-child {
+      padding-right: 0;
+    }
+  }
+}

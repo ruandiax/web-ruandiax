@@ -1,0 +1,108 @@
+{
+  "homePage": {
+    "en-US": {
+      "title": "Hello, i'm Rychillie",
+      "description": "Welcome to my world!",
+      "titleContent": "Hello, i'm Rychillie",
+      "synopsis": "Frontend Developer, junior UI Designer and Swift development student, sharing my knowledge through my",
+      "blog": "blog",
+      "know": "know",
+      "myWork": "my work",
+      "littleMore": "and a little more",
+      "aboutMe": "about me",
+      "altImage": "this is me"
+    },
+    "pt-BR": {
+      "title": "Olá, eu sou Rychillie",
+      "description": "Bem vindo ao meu mundo!",
+      "titleContent": "Olá, eu sou Rychillie",
+      "synopsis": "Desenvolvedor Frontend, UI Designer Junior e estudante de desenvolvimento Swift, compartilhando conhecimento através do meu",
+      "blog": "blog",
+      "know": "conheça mais do",
+      "myWork": "meu trabalho",
+      "littleMore": "e um pouco mais",
+      "aboutMe": "sobre mim",
+      "altImage": "este sou eu"
+    }
+  },
+  "blogPage": {
+    "en-US": {
+      "title": "Blog",
+      "description": "Welcome to my world!",
+      "titleContent": "This is my blog",
+      "contentPage": "TODO...",
+      "noResults": "Sorry, nothing was found",
+      "search": "Search articles"
+    },
+    "pt-BR": {
+      "title": "Blog",
+      "description": "Bem vindo ao meu mundo!",
+      "titleContent": "Este é meu blog",
+      "contentPage": "Em construção...",
+      "noResults": "Desculpe, não foi encontrado nada",
+      "search": "Pesquisar artigos"
+    }
+  },
+  "aboutPage": {
+    "en-US": {
+      "title": "About",
+      "description": "Know who I am and a little bit of my life",
+      "titleContent": "Know me",
+      "contentPage": "Rychillie Umpierre de Olvieira, born on October 3, 1996 in Novo Hamburgo, Rio Grande do Sul, Brazil, is a very nice person, with a good relationship with nature and with humanity. He's a little cuter than the rest of the guys, but he's a lot nicer than the rest of the guys. Jokes aside, this last part was written by Github Copilot.<br /><br />If I were to describe my personality, I'd be a fool, I like to see people around me happy, I care a lot about my neighbor, do it part of me and my upbringing to care about others. That's why I have a great interest in sharing knowledge and with this idea I'm creating this website. Sharing my knowledge and helping the community.<br /><br />My interest in development started because of electronic games, more specifically because of Minecraft. At the time my computer was not able to run most high quality games, so I ventured into Indies Games and with that I fell in love, I saw that it was possible to create magnificent things with great limitations.<br /><br /> For a while, game development was my dream, but because the market was small in the region where I lived, I couldn't devote myself to game development. So, I put my foot down and started to see what area I could work in, with my little knowledge and a lot of interest in development. So I went to Web Development, with the thought of working in the Mobile market, which at the time was much more talked about due to the success of the Apple iPhone and the arrival of smartphones.<br /><br />I studied for a long time and worked in several areas within web development, with various technologies, starting with PHP using Laravel, Bootstrap in its heyday, along with JQuery, creating web applications in my city hall as an intern, after a while working in marketing agencies creating landing pages and ecommerces, in addition to working as a freelancer for about two years.<br /><br />Soon after I had the opportunity to work on a large ecommerce platform in the country, creating layouts and themes, making a difference in the lives of customers . I also had the opportunity and was very proud to have been part of a team that creates IOT solutions for other companies to grow and make a difference.<br /><br />Currently I work as a full-time Front-end Developer at in my free time I seek to collaborate with the developer community, teach and share my knowledge. Study UI Design and IOS Development. Two old interests that I like to share with those who accompany me."
+    },
+    "pt-BR": {
+      "title": "Sobre",
+      "description": "Conheça quem sou e um pouco da minha vida",
+      "titleContent": "Conheça-me",
+      "contentPage": "Rychillie Umpierre de Olvieira, nascido em 3 de outubro de 1996 em Novo Hamburgo, Rio Grande do Sul, Brasil, é uma pessoa muito simpática, com uma boa relação com a natureza e com a humanidade. É um pouco mais fofo que o resto da galera, mas é muito mais simpático que o resto da galera. Brincadeiras a parte, esssa ultima parte quem escreveu foi o Github Copilot.<br /><br />Se fosse descrever minha personalidade, eu seria um debochado, gosto de ver pessoas a minha volta felizes, me preocupo muito com o próximo, faz parte da minha pessoa e da minha criação se preocupar com o próximo. Até por isso tenho um grande interesse em compartilhar conhecimento e com essa ideia venho a criar este website. Compartilhar meu conhecimento e ajudar a comunidade.<br /><br />Meu interesse em desenvolvimento começou por causa de jogos eletronicos, mais especificamente por causa de Minecraft. Na época meu computador não era capaz de rodar a maioria dos jogos de alta qualidade, com isso me aventurei nos Jogos Indies e com isso me apaixonei, vi que era possivel se criar coisas magnificas com grandes limitações.<br /><br />Por um tempo desenvolvimento de games foi meu sonho, mas pelo fato do mercado ser pequeno na região em que eu vivia, eu não consegui me dedicar ao desenvolvimento de jogos. Por isso, coloquei o pé no chão e comecei a ver em que area eu poderia atuar, com meu pouco conhecimento e muito interesse em desenvolvimento. Então fui para o Desenvolvimento Web, com o pensamento de atuar no mercado Mobile, que na época era muito mais comentado devivo ao sucesso do iPhone da Apple e a chegada dos smartphones.<br /><br />Estudei por muito tempo e trabalhei em diversas areas dentro do desenvolvimento web, com diversas tecnologias, começando com PHP usando Laravel, Bootstrap no seu auge, junto de JQuery, criando aplicações web na prefeitura da minha cidade como estagiario, depois de um tempo trabalhando em Agencias de marketing criando landing pages e ecommerces, alem de atuar como freelancer por cerca de dois anos.<br /><br />Logo após tive a oportunidade de atuar em uma grande plataforma de ecommerce do pais, criando layouts e temas, fazendo a diferença na vida dos clientes. Também tive a oportunidade e muito orgulho de ter feito parte de uma equipe, que cria soluções de IOT, para outras empresas crescerem e fazerem a diferença.<br /><br />Atualmente trabalho como Desenvolvedor Front-end em tempo integral, no meu tempo livre busco colaborar com a comunidade de desenvolvedores, ensinar e partilhar meu conhecimento. Estudo UI Design e Desenvolvimento IOS. Dois interesses antigos que gosto de compartilhar com aqueles que me acompanham."
+    }
+  },
+  "errorPage": {
+    "en-US": {
+      "title": "404 NOT FOUND",
+      "description": "OPS!",
+      "titleContent": "404 NOT FOUND",
+      "contentPage": "Sorry, maybe you can go back to",
+      "linkHome": "Home Page"
+    },
+    "pt-BR": {
+      "title": "404 NÃO ENCONTRADO",
+      "description": "OPS!",
+      "titleContent": "404 NÃO ENCONTRADO",
+      "contentPage": "Desculpe, talvez você pode voltar para a",
+      "linkHome": "Pagina inicial"
+    }
+  },
+  "workPage": {
+    "en-US": {
+      "title": "Work",
+      "description": "Welcome to my world!",
+      "titleContent": "This is my work",
+      "contentPage": "TODO...",
+      "noResults": "Sorry, nothing was found",
+      "search": "Search articles"
+    },
+    "pt-BR": {
+      "title": "Portfólio",
+      "description": "Bem vindo ao meu mundo!",
+      "titleContent": "Este é meu Portfólio",
+      "contentPage": "Em construção...",
+      "noResults": "Desculpe, não foi encontrado nada",
+      "search": "Pesquisar artigos"
+    }
+  },
+  "usesPage": {
+    "en-US": {
+      "title": "Uses",
+      "description": "Find out what makes my work more productive.",
+      "titleContent": "Uses",
+      "contentPage": "<h2>Editors + Terminal</h2><p>Apps that help me work with code.</p><ul><li><a target='_blank' rel='noopener noreferrer' heref='https://code.visualstudio.com'>Visual Studio Code</a> basically my default code editor.</li><li>XCode IDE for IOS development and Swift and SwiftUI studies.</li><li><a target='_blank' rel='noopener noreferrer' heref='https://ohmyz.sh'>ZSH</a> is my default Terminal.</li><li>Safari is my default browser. Google Chrome for Web Development.</li></ul><br/><br/><h2>Productivity</h2><p>Apps that help me in my productivity.</p><ul><li><a target='_blank' rel='noopener noreferrer' heref='https://sparkmailapp.com/'>Spark Mail</a> is simply the best app for emails.</li><li>For editing vectors and working with UI/UX Design, <a target='_blank' rel='noopener noreferrer' heref='https://figma.com/'>Figma</a> is my choice.</li><li>No time to read?! <a target='_blank' rel='noopener noreferrer' heref='https://getpocket.com/'>Pocket</a> is the app I use to save links and articles to read anytime.</li></ul><br/><br/><h2>My setup</h2><p>The devices that make my setup more productive.</p><ul><li><a target='_blank' rel='noopener noreferrer' heref='https://amzn.to/3CrJorD'>Macbook Air M1 with 8GB RAM and 256GB SSD</a>, is without doubt the best notebook for <strong><em>devs</em></strong>.</li><li>My 27 inch monitor is the <a target='_blank' rel='noopener noreferrer' heref='https://amzn.to/39jV9Ut'>Dell P2719H</a>.</li><li>My smartphone is a <a target='_blank' rel='noopener noreferrer' heref='https://bit.ly/iphone12miniMgalu'>128GB iPhone 12 Mini</a> and I'm in love with it.</li><li>My desk is a Slikdesk Selectia with a 135 by 80 cm Slikdesk Black top.</li><li>My Mechanical Keyboard is a <a target='_blank' rel='noopener noreferrer' heref='https://s.click.aliexpress.com/e/_9jxOlg'>Keychron K6</a> and so far my favorite.</li><li>My mouse is a <a target='_blank' rel='noopener noreferrer' heref='https://amzn.to/3znTnMJ'>MX Master 3</a> from logitech.</li><li>Also I use a <a target='_blank' rel='noopener noreferrer' heref='https://s.click.aliexpress.com/e/_9i5QEK'>Baseus Charger</a> to practically charge my iPhone.</li><li>My choice of microphone is a <a target='_blank' rel='noopener noreferrer' heref='https://amzn.to/3CorSVd'>Blue Yeti Nano</a>.</li><li>I also use an <a target='_blank' rel='noopener noreferrer' heref='https://amzn.to/3knjij8'>Elgato Stream Deck Mini</a> macro controller.</li></ul>"
+    },
+    "pt-BR": {
+      "title": "Uses",
+      "description": "Conheça o que fazem do meu trabalho mais produtivo.",
+      "titleContent": "Uses",
+      "contentPage": "<h2>Editores + Terminal</h2><p>Apps que me ajudam a trabalhar com código.</p><ul><li><a target='_blank' rel='noopener noreferrer' heref='https://code.visualstudio.com'>Visual Studio Code</a> basicamente meu editor de código padrão.</li><li>XCode IDE para desenvolvimento IOS e estudos de Swift e SwiftUI.</li><li><a target='_blank' rel='noopener noreferrer' heref='https://ohmyz.sh'>ZSH</a> é meu Terminal padrão.</li><li>Safari é meu navegador padrão. Google Chrome para Desenvolvimento Web.</li></ul><br/><br/><h2>Produtividade</h2><p>Apps que me auxilian na minha produtividade.</p><ul><li><a target='_blank' rel='noopener noreferrer' heref='https://sparkmailapp.com/'>Spark Mail</a> simplismente o melhor aplicativo para emails.</li><li>Para editar vetores e trabalhar com UI/UX Design, <a target='_blank' rel='noopener noreferrer' heref='https://figma.com/'>Figma</a> é minha escolha.</li><li>Sem tempo para ler?! <a target='_blank' rel='noopener noreferrer' heref='https://getpocket.com/'>Pocket</a> é o app que utilizo para salvar links e artigos para ler a qualquer momento.</li></ul><br/><br/><h2>Meu setup</h2><p>Os dispositivos que fazem do meu setup mais produtivo.</p><ul><li><a target='_blank' rel='noopener noreferrer' heref='https://amzn.to/3CrJorD'>Macbook Air M1 com 8GB de RAM e 256GB de SSD</a>, é sem duvida é o melhor notebook para <strong><em>devs</em></strong>.</li><li>Meu monitor de 27 polegadas, é o <a target='_blank' rel='noopener noreferrer' heref='https://amzn.to/39jV9Ut'>Dell P2719H</a>.</li><li>Meu smartphone é um <a target='_blank' rel='noopener noreferrer' heref='https://bit.ly/iphone12miniMgalu'>iPhone 12 Mini de 128GB</a> e sou apaixonado por ele.</li><li>Minha escrivaninha é uma Slikdesk Selectia com tampo Slikdesk Preto de 135 por 80 cm.</li><li>Meu Teclado Mecânico é um <a target='_blank' rel='noopener noreferrer' heref='https://s.click.aliexpress.com/e/_9jxOlg'>Keychron K6</a> e até o momento o meu favorito.</li><li>Meu mouse a anos é um <a target='_blank' rel='noopener noreferrer' heref='https://amzn.to/3znTnMJ'>MX Master 3</a> da logitech.</li><li>Além disso Utilizo um <a target='_blank' rel='noopener noreferrer' heref='https://s.click.aliexpress.com/e/_9i5QEK'>Carregador MagSafe Baseus</a> para carregar de forma pratica meu iPhone.</li><li>De microfone minha escolha é um <a target='_blank' rel='noopener noreferrer' heref='https://amzn.to/3CorSVd'>Blue Yeti Nano</a>.</li><li>Utilizo tambem um controlador macro <a target='_blank' rel='noopener noreferrer' heref='https://amzn.to/3knjij8'>Elgato Stream Deck Mini</a>.</li></ul>"
+    }
+  }
+}

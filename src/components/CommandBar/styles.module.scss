@@ -1,0 +1,117 @@
+.positionerStyle {
+  position: fixed;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
+  inset: 0px;
+  padding: 14vh 16px 16px;
+  background: rgba(0, 0, 0, 0.8);
+  box-sizing: border-box;
+  z-index: 999;
+}
+
+.kbarBlur {
+  background-color: #1a1c1e;
+}
+
+@supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
+  .kbarBlur {
+    background-color: rgba(255, 255, 255, 0.05);
+    -webkit-backdrop-filter: saturate(300%) blur(25px);
+    backdrop-filter: saturate(300%) blur(25px);
+  }
+}
+
+.positionerStyle {
+  position: fixed;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
+  inset: 0px;
+  padding: 14vh 16px 16px;
+  background: rgba(0, 0, 0, 0.8);
+  box-sizing: border-box;
+}
+
+.animatorStyle {
+  max-width: 600px;
+  width: 100%;
+  color: #f2f2f2;
+  border-radius: 8px;
+  overflow: hidden;
+
+  @extend .kbarBlur;
+}
+
+.searchStyle {
+  padding: 12px 16px;
+  font-size: 16px;
+  width: 100%;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  margin: 0;
+  background: rgba(255, 255, 255, 0.05);
+  color: #f2f2f2;
+}
+
+.groupNameStyle {
+  padding: 8px 16px;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.iconStyle {
+  font-size: 20px;
+  position: relative;
+  top: -2px;
+}
+
+.kbdStyle {
+  padding: 4px 8px;
+  text-transform: uppercase;
+  color: #8f9ba8;
+  background: rgba(255, 255, 255, 0.1);
+  font-family: sans-serif;
+  border-radius: 4px;
+}
+
+.shortcutStyle {
+  display: grid;
+  grid-auto-flow: column;
+  gap: 4px;
+}
+
+.actionStyle {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.actionRowStyle {
+  display: flex;
+  flex-direction: column;
+}
+
+.resultStyle {
+  padding: 12px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0;
+  cursor: pointer;
+}
+
+.iconStyle {
+  display: block;
+  padding: 0.2em;
+  max-width: 24px;
+  height: 24px;
+  border-radius: 6px;
+  align-self: center;
+  opacity: 0.64;
+}

@@ -1,0 +1,186 @@
+{
+  "navigation": {
+    "en-US": [
+      {
+        "name": "Blog",
+        "href": "/blog"
+      },
+      {
+        "name": "Work",
+        "href": "/work"
+      },
+      {
+        "name": "About",
+        "href": "/about"
+      }
+    ],
+    "pt-BR": [
+      {
+        "name": "Blog",
+        "href": "/blog"
+      },
+      {
+        "name": "Portfólio",
+        "href": "/work"
+      },
+      {
+        "name": "Sobre",
+        "href": "/about"
+      }
+    ]
+  },
+  "footer": {
+    "en-US": {
+      "pages": [
+        {
+          "name": "Home",
+          "href": "/"
+        },
+        {
+          "name": "Blog",
+          "href": "/blog"
+        },
+        {
+          "name": "Work",
+          "href": "/work"
+        },
+        {
+          "name": "About",
+          "href": "/about"
+        }
+      ],
+      "social": [
+        {
+          "name": "twiter",
+          "href": "https://twitter.com/rychillie"
+        },
+        {
+          "name": "Instagram",
+          "href": "https://instagram.com/rychillie"
+        },
+        {
+          "name": "Github",
+          "href": "https://github.com/rychillie"
+        },
+        {
+          "name": "Linkedin",
+          "href": "https://linkedin.com/in/rychillie"
+        }
+      ],
+      "extra": [
+        {
+          "name": "Uses",
+          "href": "/uses"
+        },
+        {
+          "name": "Links",
+          "href": "/links"
+        },
+        {
+          "name": "Newsletter",
+          "href": "/newsletter"
+        },
+        {
+          "name": "Promo",
+          "href": "/promo"
+        }
+      ]
+    },
+    "pt-BR": {
+      "pages": [
+        {
+          "name": "Início",
+          "href": "/"
+        },
+        {
+          "name": "Blog",
+          "href": "/blog"
+        },
+        {
+          "name": "Portfólio",
+          "href": "/work"
+        },
+        {
+          "name": "Sobre",
+          "href": "/about"
+        }
+      ],
+      "social": [
+        {
+          "name": "twiter",
+          "href": "https://twitter.com/rychillie"
+        },
+        {
+          "name": "Instagram",
+          "href": "https://instagram.com/rychillie"
+        },
+        {
+          "name": "Github",
+          "href": "https://github.com/rychillie"
+        },
+        {
+          "name": "Linkedin",
+          "href": "https://linkedin.com/in/rychillie"
+        }
+      ],
+      "extra": [
+        {
+          "name": "Uses",
+          "href": "/uses"
+        },
+        {
+          "name": "Links",
+          "href": "/links"
+        },
+        {
+          "name": "Newsletter",
+          "href": "/newsletter"
+        },
+        {
+          "name": "Promo",
+          "href": "/promo"
+        }
+      ]
+    }
+  },
+  "newsletter": {
+    "en-US": {
+      "title": "Subscribe to the newsletter",
+      "description": "Get emails from me about web development, tech, and early access to new articles.",
+      "formName": "Your name..",
+      "formEmail": "Your email address..",
+      "formSubmit": "Subscribe",
+      "privacyStart": "By subscribing, you agree with Revue’s",
+      "privacyTerms": "Terms of Service",
+      "privacyMiddle": "and",
+      "privacyPolicy": "Privacy Policy"
+    },
+    "pt-BR": {
+      "title": "Inscreva-se na newsletter",
+      "description": "Receba emails enviados por mim, sobre desenvolvimento web, tecnologia e novidades em artigos.",
+      "formName": "Seu nome..",
+      "formEmail": "Seu endereço de email..",
+      "formSubmit": "Cadastrar",
+      "privacyStart": "Inscrevendo-se, você concorda com a Revue com seus",
+      "privacyTerms": "Termos de Serviço",
+      "privacyMiddle": "e sua",
+      "privacyPolicy": "Política de Privacidade"
+    }
+  },
+  "shortCutHome": {
+    "en-US": {
+      "isMbl": "Tap to start →",
+      "isDkt": {
+        "press": "Press",
+        "toStart": "to start →"
+      }
+    },
+    "pt-BR": {
+      "isMbl": "Toque para começar →",
+      "isDkt": {
+        "press": "Pressione",
+        "toStart": "para começar →"
+      }
+    }
+  }
+}
