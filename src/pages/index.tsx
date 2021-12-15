@@ -29,7 +29,7 @@ const Home: NextPage = () => {
     aboutMe,
   } = homeContent[pageLocale];
 
-  const baseURL = "rychillie.net";
+  const baseURL = "ruandiax.dev";
   const linkURL = locale === "pt-BR" ? `${baseURL}/pt-BR/` : `${baseURL}/`;
 
   return (

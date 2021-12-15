@@ -11,7 +11,7 @@ import * as gtag from "@lib/gtag";
 import Analytics from "@components/Analytics";
 
 function MyApp({ Component, pageProps, router }: AppProps) {
-  const url = `https://rychillie.net${router.route}`;
+  const url = `https://ruandiax.dev${router.route}`;
   const myRouter = useRouter();
   const pageLocale = useRouter();
   const locale = pageLocale ? "pt-BR" : "en-US";

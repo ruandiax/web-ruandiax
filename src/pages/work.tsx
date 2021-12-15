@@ -28,7 +28,7 @@ const Portfolio = ({ posts, locale }: Props) => {
   const workContent = content.workPage;
   const pageLocale = locale === "pt-BR" ? "pt-BR" : "en-US";
 
-  const baseURL = "rychillie.net";
+  const baseURL = "ruandiax.dev";
   const linkURL =
     locale === "pt-BR" ? `${baseURL}/pt-BR/work` : `${baseURL}/work`;
   const { title, description, titleContent, contentPage, noResults, search } =

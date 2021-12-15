@@ -12,7 +12,7 @@ const Uses: NextPage = () => {
   const { title, description, titleContent, contentPage } =
     aboutContent[pageLocale];
 
-  const baseURL = "rychillie.net";
+  const baseURL = "ruandiax.dev";
   const linkURL =
     locale === "pt-BR" ? `${baseURL}/pt-BR/uses` : `${baseURL}/uses`;
 

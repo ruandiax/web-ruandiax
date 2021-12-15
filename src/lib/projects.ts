@@ -7,7 +7,7 @@ import { promises as fs } from "fs";
 const baseUrl =
   process.env.NODE_ENV === "development"
     ? "http://localhost:3000"
-    : "https://rychillie.net";
+    : "https://ruandiax.dev";
 
 export async function getAllPosts({ locale = "en-US" }: { locale: string }) {
   const basePath = `./content/work/${locale}`;
