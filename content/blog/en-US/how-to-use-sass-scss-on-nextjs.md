@@ -54,5 +54,3 @@ module.exports = {
 Now you can start creating and using SCSS/SASS files that work perfectly.
 
 Remember to always import your files with the `.scss` extension instead of `.css`.
-
-Created by <a href='https://twitter.com/rychillie'>Rychillie</a>

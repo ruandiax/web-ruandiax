@@ -46,7 +46,7 @@ function MyApp({ Component, pageProps, router }: AppProps) {
             "O website pessoal de Ruan Dias, desenvolvedor.",
           images: [
             {
-              url: "http://rychillie.net/api/thumbnail.png?imgdefault",
+              url: "http://ruandiax.dev/api/thumbnail.png?imgdefault",
               width: 1200,
               height: 630,
               alt: "Future IOS Developer",
