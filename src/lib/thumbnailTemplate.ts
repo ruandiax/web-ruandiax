@@ -117,17 +117,17 @@ export function getHtml({
         </div>
         <div class="details">
           <img
-            src="https://rychillie.net/images/rychillie.png"
+            src="https://ruandiax.dev/images/ruanHome.webp"
             class="profileImage"
             alt="Rychillie"
           />
           <div class="options">
-            <p class="profileName">Rychillie - Frontend Developer</p>
+            <p class="profileName">Ruan Dias - Full Stack Developer</p>
             <p class="link">
               ${linkURL}
             </p>
             <p class="profileTwitter">
-              twitter.com/rychillie
+              twitter.com/ruandiax
             </p>
           </div>
         </div>
@@ -212,15 +212,15 @@ export function getHtml({
       </style>
     </head>
     <div class="container" style="width: 1200px;height: 630px;">
-      <img src="https://rychillie.net/images/rychillie.png" class="profileImage" alt="Rychillie" />
+      <img src="https://ruandiax.dev/images/ruanHome.webp" class="profileImage" alt="Rychillie" />
       <h1 class="title">
-        rychillie.net
+        ruandiax.dev
       </h1>
       <h2 class="subtitle">
-        Frontend Developer
+        Full Stack Developer
       </h2>
       <p class="profileTwitter">
-        twitter.com/rychillie
+        twitter.com/ruandiax
       </p>
     </div>
   </html>`;
