@@ -2,7 +2,7 @@
   "homePage": {
     "en-US": {
       "title": "Ruan Dias",
-      "description": "Welcome to my world!",
+      "description": "X",
       "titleContent": "Hello, i'm Ruan Dias",
       "synopsis": "Full Stack Developer Junior and Swift Student. Sharing my knowledge thru my  ",
       "blog": "blog",
@@ -14,7 +14,7 @@
     },
     "pt-BR": {
       "title": "Ruan Dias",
-      "description": "Bem vindo ao meu mundo!",
+      "description": "X",
       "titleContent": "Olá, eu sou Ruan Dias",
       "synopsis": "Desenvolvedor Full Stack Junior e estudante de desenvolvimento Swift, compartilhando conhecimento através do meu",
       "blog": "blog",
@@ -28,7 +28,7 @@
   "blogPage": {
     "en-US": {
       "title": "Blog",
-      "description": "Welcome to my world!",
+      "description": "X",
       "titleContent": "This is my blog",
       "contentPage": "TODO...",
       "noResults": "Sorry, nothing was found",
@@ -36,7 +36,7 @@
     },
     "pt-BR": {
       "title": "Blog",
-      "description": "Bem vindo ao meu mundo!",
+      "description": "X",
       "titleContent": "Este é meu blog",
       "contentPage": "Em construção...",
       "noResults": "Desculpe, não foi encontrado nada",
@@ -46,13 +46,13 @@
   "aboutPage": {
     "en-US": {
       "title": "About",
-      "description": "Know who I am and a little bit of my life",
+      "description": "X",
       "titleContent": "About Me",
       "contentPage": "Ruan C. Dias, born on May 16, 1997 in Taubate - Sao Paulo, Brazil. It's hard talking about ourselves but I'll try, I'm a really nice guy with hunger to learn new things, solve problems and have fun along the way. I love to travel and meet new people and get know their culture. I think I evolved this passion for knowing new cultures the first time I went to Toronto, the biggest Multicultural city in the world. <br /><br /> Well, that's my <a href='https://www.16personalities.com/profiles/4174f28ec4fc0'>personality</a>.<br /><br />I first started really developing 5 months ago, but I remember being interested in developing not knowing what I was doing was actually development. That was back in the day when Tumblr was a big thing, I would create Themes for me and people who asked me for just for fun.  <br /><br /> As a gamer, my dream was to work as a Game Developer but it didn't catch my attention as much as i thought it would. That's when i found myself having fun solving problems with Python.<br /><br />I've been studying and falling in love with Web Development ever since, the first language I've learnt was Python, so my next step was to know more about Web, so I've learnt HTML, CSS, Js, Ruby on Rails, BootStrap and jQuery! Git and GitHub I've learnt on daily usage! <br /><br />To create this Portfolio I've been using TypeScript, Next.Js and SCSS. <br /> I'm learning as I go thru this project!<br />"
     },
     "pt-BR": {
       "title": "Sobre",
-      "description": "Conheça quem sou e um pouco da minha vida",
+      "description": "X",
       "titleContent": "Conheça-me",
       "contentPage": "Ruan C. Dias, nascido em 16 de Maio de 1997 em Taubate - Sao Paulo, Brasil. Dificil falar sobre eu mesmo, mas tentarei. Sou um cara muito legal com apetite para aprender novas coisas, resolver problemas e se divertir durante a jornada. Eu amo viajar e conhecer novas pessoas e suas culturas. Acredito que eu tenha desenvolvido essa paixao por conhecer novas culturas durante minha primeira viagem para Toronto, a maior cidade Multicultural do mundo!<br /><br />Bom, essa é minha <a href='https://www.16personalities.com/profiles/4174f28ec4fc0'> personalidade.<br /><br />Eu comecei a desenvolver de verdade tem 5 meses, mas me lembro ser interessado por desenvolvimento sem saber que de fato eu estava desenvolvendo. Isso foi quando Tumblr era algo grande, eu criava Temas para mim e para meus amigos por pura diversao!<br /><br />Como um gamer, meu sonho era trabalhar como Desenvolvedor de Jogos mas nao me chamou tanta atencao quanto eu imaginava. Foi entao que eu me vi me divertindo resolvendo problemas usando Python e problemas diarios tambem de automacao!<br /><br />Estou estudando e me apaixonando por Desenvolvimento Web desde entao, a primeira linguagem que eu aprendi foi Python, entao meu proximo passo teria de ser aprender mais sobre Web, entao aprendi HTML, CSS, Js, Ruby on Rails, BootStrap e jQuery! Git e GitHub fui aprendendo conforme fui usando! <br /><br />Para criar esse projeto estou usando TypeScript, Next.Js e SCSS<br /><br />Estou aprendendo esses 3 enquanto vou realizando esse projeto!"
     }
@@ -76,7 +76,7 @@
   "workPage": {
     "en-US": {
       "title": "Work",
-      "description": "Welcome to my world!",
+      "description": "X",
       "titleContent": "This is my work",
       "contentPage": "TODO...",
       "noResults": "Sorry, nothing was found",
@@ -84,7 +84,7 @@
     },
     "pt-BR": {
       "title": "Portfólio",
-      "description": "Bem vindo ao meu mundo!",
+      "description": "X",
       "titleContent": "Este é meu Portfólio",
       "contentPage": "Em construção...",
       "noResults": "Desculpe, não foi encontrado nada",
@@ -94,13 +94,13 @@
   "usesPage": {
     "en-US": {
       "title": "Uses",
-      "description": "Find out what I use on a daily basis",
+      "description": "X",
       "titleContent": "Uses",
       "contentPage": "<h2>Editors + Terminal</h2><p>Apps that help me work with code.</p><ul><li><a target='_blank' rel='noopener noreferrer' href='https://code.visualstudio.com'>Visual Studio Code</a> basically my default code editor.</li><li>XCode IDE for IOS development and Swift and SwiftUI studies.</li><li><a target='_blank' rel='noopener noreferrer' href='https://ohmyz.sh'>ZSH</a> is my default Terminal.</li><li>Brave is my default browser.</li></ul><br/><br/><h2>Setup</h2><p>Devices that make my setup more productive.</p><ul><li>Notebook: <a target='_blank' rel='noopener noreferrer' href='https://amzn.to/3CrJorD'>Macbook Air M1 with 8GB RAM and 256GB SSD</a></li><li>Monitor: <a target='_blank' rel='noopener noreferrer' href='https://amz.run/59dZ'>LG Ultrawide 29WL500-29</a>.</li><li>Smartphone: <a target='_blank' rel='noopener noreferrer' href='https://bit.ly/iphone12miniMgalu'>64GB iPhone 11 Pro Max</a></li><li>Keyboard: <a target='_blank' rel='noopener noreferrer' href='https://amz.run/59dc'>Logitech MX Keys (Full Size)</a></li><li>Mouse: <a target='_blank' rel='noopener noreferrer' href='https://amz.run/59dd'>Logitech M720 Triathlon</a></li><li>Microphone: <a target='_blank' rel='noopener noreferrer' href='https://amz.run/59dg'>BM-800</a></li><li>In-Ear: <a target='_blank' rel='noopener noreferrer' href='https://amz.run/59dk'>KZ ZSN Pro</a></li></ul>"
     },
     "pt-BR": {
       "title": "Uses",
-      "description": "Conheça o que eu uso no dia a dia!",
+      "description": "X",
       "titleContent": "Uses",
       "contentPage": "<h2>Editores + Terminal</h2><p>Apps que me ajudam a trabalhar com código.</p><ul><li><a target='_blank' rel='noopener noreferrer' href='https://code.visualstudio.com'>Visual Studio Code</a> basicamente meu editor de código padrão.</li><li>XCode IDE para desenvolvimento IOS e estudos de Swift e SwiftUI.</li><li><a target='_blank' rel='noopener noreferrer' href='https://ohmyz.sh'>ZSH</a> é meu Terminal padrão.</li><li>Brave é meu navegador padrão.</li></ul><br/><br/><br/><h2>Meu setup</h2><p>Os dispositivos que fazem o meu setup mais produtivo.</p><ul><li>Notebook: <a target='_blank' rel='noopener noreferrer' href='https://amzn.to/3CrJorD'>Macbook Air M1 with 8GB RAM and 256GB SSD</a></li><li>Monitor: <a target='_blank' rel='noopener noreferrer' href='https://amz.run/59dZ'>LG Ultrawide 29WL500-29</a>.</li><li>Smartphone: <a target='_blank' rel='noopener noreferrer' href='https://bit.ly/iphone12miniMgalu'>64GB iPhone 11 Pro Max</a></li><li>Keyboard: <a target='_blank' rel='noopener noreferrer' href='https://amz.run/59dc'>Logitech MX Keys (Full Size)</a></li><li>Mouse: <a target='_blank' rel='noopener noreferrer' href='https://amz.run/59dd'>Logitech M720 Triathlon</a></li><li>Microphone: <a target='_blank' rel='noopener noreferrer' href='https://amz.run/59dg'>BM-800</a></li><li>In-Ear: <a target='_blank' rel='noopener noreferrer' href='https://amz.run/59dk'>KZ ZSN Pro</a></li></ul>"
     }

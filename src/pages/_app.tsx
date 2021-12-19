@@ -41,15 +41,15 @@ function MyApp({ Component, pageProps, router }: AppProps) {
       <DefaultSeo
         titleTemplate="%s - ruandiax.dev"
         openGraph={{
-          title: "Future IOS Developer",
+          title: "Full Stack Developer",
           description:
-            "O website pessoal de Ruan Dias, desenvolvedor.",
+            "Personal Website for Ruan Dias",
           images: [
             {
               url: "http://ruandiax.dev/api/thumbnail.png?imgdefault",
               width: 1200,
               height: 630,
-              alt: "Future IOS Developer",
+              alt: "Full Stack Developer",
               type: "image/png",
             },
           ],
