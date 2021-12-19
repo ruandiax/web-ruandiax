@@ -50,8 +50,8 @@ const Home: NextPage = () => {
       <div className={styles.profile}>
         <div className={styles.containerImage}>
           <Image
-            src="/images/ruanHome.jpeg"
-            blurDataURL="/images/ruanHome.jpeg"
+            src="/images/ruanHome.webp"
+            blurDataURL="/images/ruanHome.webp"
             placeholder="blur"
             quality={100}
             layout="fixed"
