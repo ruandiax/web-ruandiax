@@ -119,7 +119,7 @@ export function getHtml({
           <img
             src="https://ruandiax.dev/images/ruanHome.webp"
             class="profileImage"
-            alt="Rychillie"
+            alt="ruandiax"
           />
           <div class="options">
             <p class="profileName">Ruan Dias - Full Stack Developer</p>
@@ -212,7 +212,7 @@ export function getHtml({
       </style>
     </head>
     <div class="container" style="width: 1200px;height: 630px;">
-      <img src="https://ruandiax.dev/images/ruanHome.webp" class="profileImage" alt="Rychillie" />
+      <img src="https://ruandiax.dev/images/ruanHome.webp" class="profileImage" alt="ruandiax" />
       <h1 class="title">
         ruandiax.dev
       </h1>
