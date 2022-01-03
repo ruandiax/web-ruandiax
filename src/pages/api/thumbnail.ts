@@ -15,7 +15,7 @@ export default async (
   try {
     const query = req.query;
 
-    const baseURL = "ruandiax.dev";
+    const baseURL = "https://ruandiax.dev";
 
     const imgDefault = String(query.defaultImg);
     const title = String(query.title);
