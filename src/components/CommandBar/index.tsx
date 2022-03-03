@@ -12,6 +12,7 @@ import {
   KBarPositioner,
   KBarSearch,
   KBarResults,
+  Action,
 } from "kbar";
 import styles from "./styles.module.scss";
 
@@ -169,7 +170,7 @@ function RenderResults() {
 }
 
 type Props = {
-  action: BaseAction;
+  action: Action;
   active: boolean;
 };
 
