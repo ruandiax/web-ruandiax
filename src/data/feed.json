@@ -2,7 +2,7 @@
   "feed": {
     "en-US": {
       "title": "Ruan Dias Feed",
-      "description": "Full Stack Developer Junior, Swift development student! Sharing my knowledge through my blog",
+      "description": "Full Stack Developer Junior. Sharing my knowledge through my blog",
       "link": "https://ruandiax.dev",
       "language": "en-US",
       "image": "https://ruandiax.dev/images/ruanHome.webp",
@@ -17,7 +17,7 @@
     },
     "pt-BR": {
       "title": "Ruan Dias Feed",
-      "description": "Desenvolvedor Full Stack Junior, estudante de desenvolvimento Swift! Compartilhando conhecimento através do meu blog",
+      "description": "Desenvolvedor Full Stack Junior. Compartilhando conhecimento através do meu blog",
       "link": "https://ruandiax.dev",
       "language": "pt-BR",
       "image": "https://ruandiax.dev/images/ruanHome.webp",
