@@ -2,7 +2,7 @@
   "feed": {
     "en-US": {
       "title": "Ruan Dias Feed",
-      "description": "Computer Science student at Anhembi Morumbi University. In love with cars and photography. Sharing my knowledge through my blog",
+      "description": "Computer Science student at Anhembi Morumbi University. Sharing my knowledge through my blog",
       "link": "https://ruandiax.dev",
       "language": "en-US",
       "image": "https://ruandiax.dev/images/ruanHome.webp",
@@ -17,7 +17,7 @@
     },
     "pt-BR": {
       "title": "Ruan Dias Feed",
-      "description": "Estudante de Ciência da Computação na Universidade Anhembi Morumbi. Apaixonado por carros e fotografia. Compartilhando conhecimento através do meu blog",
+      "description": "Estudante de Ciência da Computação na Universidade Anhembi Morumbi. Compartilhando conhecimento através do meu blog",
       "link": "https://ruandiax.dev",
       "language": "pt-BR",
       "image": "https://ruandiax.dev/images/ruanHome.webp",
