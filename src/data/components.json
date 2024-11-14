@@ -146,7 +146,7 @@
   "newsletter": {
     "en-US": {
       "title": "Subscribe to the newsletter",
-      "description": "Get emails from me about web development, tech, and early access to new articles.",
+      "description": "Get emails from me about my latest creations and early access to new articles.",
       "formName": "Your name..",
       "formEmail": "Your email address..",
       "formSubmit": "Subscribe",
@@ -157,7 +157,7 @@
     },
     "pt-BR": {
       "title": "Inscreva-se na newsletter",
-      "description": "Receba emails enviados por mim, sobre desenvolvimento web, tecnologia e novidades em artigos.",
+      "description": "Receba emails enviados por mim, sobre as minhas últimas criações e novos artigos.",
       "formName": "Seu nome..",
       "formEmail": "Seu endereço de email..",
       "formSubmit": "Cadastrar",
